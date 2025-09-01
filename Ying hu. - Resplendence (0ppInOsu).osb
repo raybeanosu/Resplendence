@@ -1,0 +1,59 @@
+[Events]
+//Background and Video events
+//Storyboard Layer 0 (Background)
+Sprite,Background,Centre,"103696715_p0.jpg",320,240
+Sprite,Background,Centre,"sb\full bg no nothing.png",320,240
+ S,0,49410,344315,0.2222
+Sprite,Background,Centre,"sb\pillars.png",320,240
+ S,0,49410,344315,0.2222
+ M,0,57165,,340.48,226.1269
+Sprite,Background,Centre,"sb\girl.PNG",320,240
+ S,0,49410,344315,0.2222
+Sprite,Background,Centre,"sb\wing.PNG",320,240
+ P,0,49410,,A
+ S,0,49410,344315,0.2222
+Sprite,Background,Centre,"sb\rock1.png",320,240
+ S,0,49410,344315,0.2690114
+ M,0,50293,,480.3291,49.24343
+Sprite,Background,Centre,"sb\rock2.png",320,240
+ S,0,49410,344315,0.2456057
+ M,0,56558,,557.5681,25.83772
+Sprite,Background,Centre,"sb\rock3.png",320,240
+ M,0,49410,,-63.26859,71.47885
+ S,0,49410,344315,0.2222
+Sprite,Background,Centre,"sb\rock4.png",320,240
+ M,0,49410,,33.4503,40.46628
+ S,0,49410,344315,0.2222
+//Storyboard Layer 1 (Fail)
+//Storyboard Layer 2 (Pass)
+//Storyboard Layer 3 (Foreground)
+Sprite,Foreground,BottomCentre,"sb\p.png",320,480
+ C,0,207,,0,0,0
+ V,0,49410,57528,854,30
+ V,1,57528,58234,854,30,854,110
+ V,2,59999,60528,854,110,854,30
+Sprite,Foreground,TopCentre,"sb\p.png",320,0
+ C,0,207,,0,0,0
+ V,0,49410,57528,854,-30
+ V,1,57528,58234,854,-30,854,-110
+ V,2,59999,60528,854,-110,854,-30
+Sprite,Foreground,Centre,"sb\p.png",320,240
+ V,0,49410,,854,480
+ F,0,49410,50028,1,0
+Sprite,Foreground,Centre,"sb\p.png",320,240
+ C,0,158847,,98,46,41
+ V,0,158847,159937,854,480
+Sprite,Foreground,Centre,"sb\vignette.png",320,240
+ S,0,158847,159937,0.2222
+Sprite,Foreground,BottomCentre,"sb\p.png",320,480
+ C,0,158847,,0,0,0
+ V,0,158847,159937,854,125
+Sprite,Foreground,TopCentre,"sb\p.png",320,0
+ C,0,158847,,0,0,0
+ V,0,158847,159937,854,-125
+Sprite,Foreground,Centre,"sb\text\r2.png",320,240
+ F,28,158847,159000,0,1
+ S,0,158847,159937,0.15
+ MX,26,158847,159937,300,320
+//Storyboard Layer 4 (Overlay)
+//Storyboard Sound Samples
