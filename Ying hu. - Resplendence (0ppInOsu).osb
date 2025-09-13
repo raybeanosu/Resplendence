@@ -9,6 +9,7 @@ Sprite,Background,Centre,"sb\full bg no nothing.png",320,240
   M,17,5000,10000,320,242,320,240
   S,17,5000,10000,0.22,0.2222
  F,0,49410,334841,1
+ F,0,233373,233587,1,0
  F,0,334841,,0
 Sprite,Background,Centre,"sb\fog.jpg",320,400
  S,0,71999,,0.3856001
@@ -28,18 +29,21 @@ Sprite,Background,Centre,"sb\pillars.png",320,240
   S,17,5000,10000,0.221,0.2222
  M,0,49410,,340.48,226
  F,0,49410,334841,1
+ F,0,233373,233587,1,0
  F,0,334841,,0
 Sprite,Background,Centre,"sb\girl.PNG",320,240
  L,49410,29
   M,17,0,10000,320,240,320,250
   M,17,10000,20000,320,250,320,240
- S,0,49410,334841,0.2222
  F,0,49410,334841,1
+ S,0,49410,334841,0.2222
+ F,0,233373,233587,1,0
  F,0,334841,,0
 Sprite,Background,Centre,"sb\wing.PNG",320,240
+ F,0,49410,334841,1
+ F,0,233373,233587,1,0
  P,0,283683,,A
  S,0,283683,334841,0.2222
- F,0,49410,334841,1
  F,0,334841,,0
 Sprite,Background,Centre,"sb\rock1.png",320,240
  L,49410,29
@@ -48,8 +52,9 @@ Sprite,Background,Centre,"sb\rock1.png",320,240
   M,17,5000,10000,480,29,480,49
   R,17,5000,10000,0.05,0
  M,0,49410,,480,49
- S,0,49410,334841,0.2690114
  F,0,49410,334841,1
+ S,0,49410,334841,0.2690114
+ F,0,233373,233587,1,0
  F,0,334841,,0
 Sprite,Background,Centre,"sb\rock2.png",320,240
  L,50000,29
@@ -58,8 +63,9 @@ Sprite,Background,Centre,"sb\rock2.png",320,240
   M,17,7500,15000,557,5,557,25
   R,17,7500,15000,0.03,0
  M,0,49410,,557,25
- S,0,49410,334841,0.2456057
  F,0,49410,334841,1
+ S,0,49410,334841,0.2456057
+ F,0,233373,233587,1,0
  F,0,334841,,0
 Sprite,Background,Centre,"sb\rock3.png",320,240
  L,50500,29
@@ -68,8 +74,9 @@ Sprite,Background,Centre,"sb\rock3.png",320,240
   M,17,6000,12000,-63,60,-63,71
   R,17,6000,12000,0.015,0
  M,0,49410,,-63,71
- S,0,49410,334841,0.2222
  F,0,49410,334841,1
+ S,0,49410,334841,0.2222
+ F,0,233373,233587,1,0
  F,0,334841,,0
 Sprite,Background,Centre,"sb\rock4.png",320,240
  L,50250,29
@@ -78,8 +85,9 @@ Sprite,Background,Centre,"sb\rock4.png",320,240
   M,17,8000,16000,33,33,33,40
   R,17,8000,16000,0.008,0
  M,0,49410,,33,40
- S,0,49410,334841,0.2222
  F,0,49410,334841,1
+ S,0,49410,334841,0.2222
+ F,0,233373,233587,1,0
  F,0,334841,,0
 //Storyboard Layer 1 (Fail)
 //Storyboard Layer 2 (Pass)
@@ -430,6 +438,7 @@ Sprite,Foreground,Centre,"sb\particle.png",668,0
  F,0,334841,,0
 Sprite,Foreground,Centre,"sb\p.png",320,240
  C,0,233587,,0,0,0
+ F,0,233587,234015,0,1
  V,0,233587,263473,854,480
 Sprite,Foreground,TopCentre,"sb\p.png",320,0
  C,0,49410,,0,0,0
@@ -450,8 +459,8 @@ Sprite,Foreground,Centre,"sb\p.png",320,240
  V,0,158847,159937,854,480
  F,1,159937,160037,1,0
 Sprite,Foreground,Centre,"sb\circle.png",320,240
- L,190512,11
-  S,0,0,1406,0,1.55
+ L,190512,16
+  S,0,0,932,0,1.55
 Sprite,Foreground,TopCentre,"sb\p.png",320,0
  C,0,190512,,0,0,0
  V,0,190512,,854,-110
@@ -478,6 +487,9 @@ Sprite,Foreground,Centre,"sb\p.png",320,240
  C,0,159937,,255,255,255
  V,0,159937,,854,480
  F,2,159937,160900,1,0
+Animation,Foreground,Centre,"sb\noise\.jpg",320,240,4,936,LoopForever
+ F,0,234015,255353,0.2
+ S,0,234015,258095,0.444
 Animation,Foreground,Centre,"sb\noise\.jpg",320,240,4,316,LoopForever
  S,0,334210,,0.444
  F,0,334210,344215,0.2
@@ -498,12 +510,9 @@ Sprite,Foreground,Centre,"sb\sax.png",320,240
 Sprite,Foreground,Centre,"sb\glow.png",320,240
  L,190512,16
   F,10,0,938,0.3,0.1
-Animation,Foreground,Centre,"sb\noise\.jpg",320,240,4,936,LoopForever
- S,0,234015,258095,0.85
- F,0,234015,255353,0.2
 Animation,Foreground,Centre,"sb\glitch\g.jpg",320,240,4,75,LoopForever
- S,0,246621,246996,1.77824
  P,0,246621,,A
+ S,0,246621,246996,1.77824
 Sprite,Foreground,Centre,"sb\text\songname.png",320,240
  F,0,334525,334841,0,1
  V,27,334525,334925,1,0,1,1
@@ -523,13 +532,13 @@ Sprite,Foreground,Centre,"sb\p.png",320,240
  F,0,190512,191130,1,0
 Sprite,Foreground,Centre,"sb\pl.png",0,478
  C,0,116822,,240,94,84
- S,19,116822,118028,0,90
  P,0,116822,,A
+ S,19,116822,118028,0,90
  F,0,117087,117528,0.5,0
 Sprite,Foreground,Centre,"sb\pl.png",638,0
  C,0,116822,,169,181,235
- S,19,116822,118028,0,90
  P,0,116822,,A
+ S,19,116822,118028,0,90
  F,0,117087,117528,0.5,0
 Sprite,Foreground,Centre,"sb\image.png",320,240
  L,71999,4
@@ -545,8 +554,31 @@ Sprite,Foreground,Centre,"sb\bg lighting.png",320,240
  M,0,71999,94587,320,240
  F,0,94234,94587,1,0
 Sprite,Foreground,Centre,"sb\bg lighting.png",320,240
+ P,0,283683,,A
  F,0,283683,284683,0,0.75
  S,0,283683,303894,0.222
- P,0,283683,,A
+Sprite,Foreground,BottomCentre,"sb\p.png",320,480
+ V,19,233158,234015,854,0,854,110
+ C,0,234015,,0,0,0
+ V,0,234015,258095,854,110
+Sprite,Foreground,TopCentre,"sb\p.png",320,0
+ V,19,233158,234015,854,0,854,-110
+ C,0,234015,,0,0,0
+ V,0,234015,258095,854,-110
+Sprite,Foreground,Centre,"sb\p.png",320,240
+ C,0,188637,,68,68,68
+ V,0,188637,,854,480
+ F,28,188637,189137,0,0.7
+ F,0,189637,190512,0.7
+Animation,Foreground,Centre,"sb\vhs overlay\vhs.png",320,240,4,50,LoopForever
+ F,0,189137,190512,1
+ F,25,188637,189137,0,1
+ S,0,188637,190512,0.4499657
+Sprite,Foreground,Centre,"sb\TV 4k.png",320,240
+ S,28,188637,190512,0.67
+Sprite,Foreground,Centre,"sb\standby.png",320,245
+ S,0,188637,190512,0.44
+ F,28,188637,189137,0,1
+ F,24,190277,190512,1,0
 //Storyboard Layer 4 (Overlay)
 //Storyboard Sound Samples
