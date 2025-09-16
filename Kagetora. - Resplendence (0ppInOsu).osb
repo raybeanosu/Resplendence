@@ -2126,6 +2126,7 @@ Sprite,Foreground,Centre,"sb\text\credits1.png",320,240
  S,0,336736,339262,0.4,0.38
 Sprite,Foreground,Centre,"sb\text\credits.jpg",320,240
  P,0,339262,,A
+ F,0,339262,339762,0,1
  S,0,339262,344315,0.375
 Sprite,Foreground,Centre,"sb\text\6wc.png",320,240
  S,0,344315,350688,0.11
@@ -2162,12 +2163,12 @@ Sprite,Foreground,Centre,"sb\image.png",320,240
 Sprite,Foreground,Centre,"sb\bg lighting.png",320,240
  S,0,71999,,0.222
  P,0,71999,,A
- F,0,71999,72999,0,1
+ F,0,71999,72999,0,0.5
  M,0,71999,94587,320,240
  F,0,94234,94587,1,0
 Sprite,Foreground,Centre,"sb\bg lighting.png",320,240
  P,0,283683,,A
- F,0,283683,284683,0,0.75
+ F,0,283683,284683,0,0.25
  S,0,283683,303894,0.222
  F,0,303894,304894,0.75,0
 Animation,Foreground,Centre,"sb\interlude2\f.png",320,255,2,429,LoopForever
@@ -2175,6 +2176,16 @@ Animation,Foreground,Centre,"sb\interlude2\f.png",320,255,2,429,LoopForever
  S,0,234015,237015,0.63
  MX,0,234015,237015,300,290
  F,0,237015,237215,1,0
+Animation,Foreground,Centre,"sb\interlude2\s.png",360,240,2,414,LoopForever
+ S,0,237221,,0.45
+ MX,0,237221,240325,360,365
+Animation,Foreground,Centre,"sb\interlude2\g.png",320,240,2,400,LoopForever
+ S,0,240325,,0.7191316
+ M,0,240325,243525,490,290,480,290
+Animation,Foreground,Centre,"sb\interlude2\gu.png",320,240,2,1,LoopForever
+ M,0,246996,249621,320,240
+ S,0,249621,,0.3212343
+ R,0,249621,,0.3042743
 Sprite,Foreground,Centre,"sb\text\1.png",500,250
  F,0,234015,234444,0,1
  S,0,234015,237015,0.2
