@@ -41,7 +41,7 @@ SliderTickRate:1
 [Events]
 //Background and Video events
 0,0,"103696715_p0.jpg",0,0
-Video,0,"6wc gf tb intro no sound.mp4"
+Video,0,"video.mp4"
 //Break Periods
 //Storyboard Layer 0 (Background)
 //Storyboard Layer 1 (Fail)
