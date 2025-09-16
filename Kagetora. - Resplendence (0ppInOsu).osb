@@ -55,6 +55,15 @@ Sprite,Background,Centre,"sb\pillars.png",320,240
  F,0,49410,334841,1
  F,0,233373,233587,1,0
  F,0,334841,,0
+Sprite,Background,Centre,"sb\clock2.png",320,240
+ M,0,283683,,320,240
+ S,0,283683,,0.6
+ R,0,283683,334841,0,0.5
+ P,0,283683,,A
+  L,283683,25
+   F,0,0,632,0.5,1
+   F,0,632,1264,1,0.5
+ F,0,334841,,0
 Sprite,Background,Centre,"sb\rock3.png",320,240
  L,50500,29
   M,17,0,6000,-63,71,-63,60
@@ -2143,16 +2152,6 @@ Sprite,Foreground,Centre,"sb\p.png",320,240
 Sprite,Foreground,Centre,"sb\p.png",320,240
  V,0,190512,,854,480
  F,0,190512,191130,1,0
-Sprite,Foreground,Centre,"sb\pl.png",0,478
- C,0,116822,,240,94,84
- P,0,116822,,A
- S,19,116822,118028,0,90
- F,0,117087,117528,0.5,0
-Sprite,Foreground,Centre,"sb\pl.png",638,0
- C,0,116822,,169,181,235
- P,0,116822,,A
- S,19,116822,118028,0,90
- F,0,117087,117528,0.5,0
 Sprite,Foreground,Centre,"sb\image.png",320,240
  L,71999,4
   R,0,0,3000,0,0.3
@@ -2177,15 +2176,21 @@ Animation,Foreground,Centre,"sb\interlude2\f.png",320,255,2,429,LoopForever
  MX,0,234015,237015,300,290
  F,0,237015,237215,1,0
 Animation,Foreground,Centre,"sb\interlude2\s.png",360,240,2,414,LoopForever
- S,0,237221,,0.45
- MX,0,237221,240325,360,365
+ S,0,237015,,0.45
+ MX,0,237015,240325,360,365
 Animation,Foreground,Centre,"sb\interlude2\g.png",320,240,2,400,LoopForever
  S,0,240325,,0.7191316
  M,0,240325,243525,490,290,480,290
-Animation,Foreground,Centre,"sb\interlude2\gu.png",320,240,2,1,LoopForever
- M,0,246996,249621,320,240
- S,0,249621,,0.3212343
- R,0,249621,,0.3042743
+Animation,Foreground,Centre,"sb\interlude2\gu.png",320,240,2,375,LoopForever
+ S,0,246996,249621,0.2,0.21
+ R,0,246996,249621,0,0.1
+Animation,Foreground,Centre,"sb\interlude2\gu.png",320,240,2,353,LoopForever
+ S,0,249621,252530,0.4,0.42
+ R,0,249621,252530,0.95,1
+Animation,Foreground,Centre,"sb\interlude2\gu.png",320,240,2,364,LoopForever
+ MY,0,252530,,350
+ S,0,252530,255353,0.6,0.61
+ R,0,252530,255353,2.8,2.9
 Sprite,Foreground,Centre,"sb\text\1.png",500,250
  F,0,234015,234444,0,1
  S,0,234015,237015,0.2
@@ -2194,7 +2199,7 @@ Sprite,Foreground,Centre,"sb\text\1.png",500,250
 Sprite,Foreground,Centre,"sb\text\2.png",320,300
  F,0,243525,243954,0,1
  S,0,243525,246725,0.2
- MY,0,243525,246725,350,345
+ MY,0,243525,246725,255,250
  F,0,246525,246725,1,0
 Sprite,Foreground,Centre,"sb\text\3.png",100,150
  F,0,249621,250050,0,1
@@ -2202,8 +2207,8 @@ Sprite,Foreground,Centre,"sb\text\3.png",100,150
  MX,0,249621,252530,100,105
  F,0,252330,252530,1,0
 Sprite,Foreground,Centre,"sb\text\4.png",320,240
- F,0,257410,257839,0,1
- S,0,257410,258095,0.15
+ F,0,255353,256353,0,1
+ S,0,255353,258095,0.15
 Sprite,Foreground,BottomCentre,"sb\p.png",320,480
  V,19,233158,234015,854,0,854,110
  C,0,234015,,0,0,0
@@ -2218,5 +2223,9 @@ Sprite,Foreground,Centre,"sb\glow.png",320,240
  S,0,258095,262210,0,0.8
  F,28,258095,263473,0,0.3
  S,0,262210,263473,0.8,0.6
+Sprite,Foreground,Centre,"sb\p.png",320,240
+ C,0,283683,,255,255,255
+ V,0,283683,,854,480
+ F,2,283683,284646,1,0
 //Storyboard Layer 4 (Overlay)
 //Storyboard Sound Samples
