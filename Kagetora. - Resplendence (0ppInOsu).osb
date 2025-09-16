@@ -16,7 +16,6 @@ Sprite,Background,Centre,"sb\fog.jpg",320,400
  F,0,71999,72999,0,0.7
  MX,0,71999,94234,1000,320
  F,0,94234,94587,0.7,0
-
 Sprite,Background,Centre,"sb\fog.jpg",320,400
  F,0,71999,72999,0,0.7
  MX,0,71999,94234,-500,320
@@ -107,1738 +106,1367 @@ Sprite,Background,Centre,"sb\birb1.png",301,210
  S,0,49410,,0.2222
  F,0,49410,334841,1
  F,0,334841,,0
-
-// wing animation
-
-
-Sprite,Background,Centre,"sb/p.png",521,211
- P,0,59469,,A
+Sprite,Background,Centre,"sb\p.png",521,211
  F,0,59469,,0.5
  R,0,59469,,2.01
+ P,0,59469,,A
  V,19,59469,59569,5,0,5,1600
  V,19,59669,60469,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",415,185
- P,0,59646,,A
+Sprite,Background,Centre,"sb\p.png",415,185
  F,0,59646,,0.5
  R,0,59646,,2.53
+ P,0,59646,,A
  V,19,59646,59746,5,0,5,1600
  V,19,59846,60646,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",445,294
- P,0,59822,,A
+Sprite,Background,Centre,"sb\p.png",445,294
  F,0,59822,,0.5
  R,0,59822,,3.05
+ P,0,59822,,A
  V,19,59822,59922,5,0,5,1600
  V,19,60022,60822,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",119,290
- P,0,61234,,A
+Sprite,Background,Centre,"sb\p.png",119,290
  F,0,61234,,0.5
  R,0,61234,,0.32
+ P,0,61234,,A
  V,19,61234,61334,5,0,5,1600
  V,19,61434,62234,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",119,290
- P,0,61322,,A
+Sprite,Background,Centre,"sb\p.png",119,290
  F,0,61322,,0.5
  R,0,61322,,0.84
+ P,0,61322,,A
  V,19,61322,61422,5,0,5,1600
  V,19,61522,62322,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",286,152
- P,0,61763,,A
+Sprite,Background,Centre,"sb\p.png",286,152
  F,0,61763,,0.5
  R,0,61763,,0.74
+ P,0,61763,,A
  V,19,61763,61863,5,0,5,1600
  V,19,61963,62763,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",273,170
- P,0,61852,,A
+Sprite,Background,Centre,"sb\p.png",273,170
  F,0,61852,,0.5
  R,0,61852,,1.26
+ P,0,61852,,A
  V,19,61852,61952,5,0,5,1600
  V,19,62052,62852,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",266,188
- P,0,61940,,A
+Sprite,Background,Centre,"sb\p.png",266,188
  F,0,61940,,0.5
  R,0,61940,,1.78
+ P,0,61940,,A
  V,19,61940,62040,5,0,5,1600
  V,19,62140,62940,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",576,134
- P,0,62469,,A
+Sprite,Background,Centre,"sb\p.png",576,134
  F,0,62469,,0.5
  R,0,62469,,4.88
+ P,0,62469,,A
  V,19,62469,62569,5,0,5,1600
  V,19,62669,63469,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",576,134
- P,0,62558,,A
+Sprite,Background,Centre,"sb\p.png",576,134
  F,0,62558,,0.5
  R,0,62558,,5.4
+ P,0,62558,,A
  V,19,62558,62658,5,0,5,1600
  V,19,62758,63558,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",576,134
- P,0,62646,,A
+Sprite,Background,Centre,"sb\p.png",576,134
  F,0,62646,,0.5
  R,0,62646,,5.92
+ P,0,62646,,A
  V,19,62646,62746,5,0,5,1600
  V,19,62846,63646,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",341,360
- P,0,63352,,A
+Sprite,Background,Centre,"sb\p.png",341,360
  F,0,63352,,0.5
  R,0,63352,,5.26
+ P,0,63352,,A
  V,19,63352,63452,5,0,5,1600
  V,19,63552,64352,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",297,199
- P,0,63881,,A
+Sprite,Background,Centre,"sb\p.png",297,199
  F,0,63881,,0.5
  R,0,63881,,4.1
+ P,0,63881,,A
  V,19,63881,63981,5,0,5,1600
  V,19,64081,64881,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",324,195
- P,0,63969,,A
+Sprite,Background,Centre,"sb\p.png",324,195
  F,0,63969,,0.5
  R,0,63969,,4.62
+ P,0,63969,,A
  V,19,63969,64069,5,0,5,1600
  V,19,64169,64969,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",344,208
- P,0,64058,,A
+Sprite,Background,Centre,"sb\p.png",344,208
  F,0,64058,,0.5
  R,0,64058,,5.14
+ P,0,64058,,A
  V,19,64058,64158,5,0,5,1600
  V,19,64258,65058,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",107,364
- P,0,64852,,A
+Sprite,Background,Centre,"sb\p.png",107,364
  F,0,64852,,0.5
  R,0,64852,,3.57
+ P,0,64852,,A
  V,19,64852,64952,5,0,5,1600
  V,19,65052,65852,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",142,115
- P,0,65381,,A
+Sprite,Background,Centre,"sb\p.png",142,115
  F,0,65381,,0.5
  R,0,65381,,4.47
+ P,0,65381,,A
  V,19,65381,65481,5,0,5,1600
  V,19,65581,66381,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",160,140
- P,0,65469,,A
+Sprite,Background,Centre,"sb\p.png",160,140
  F,0,65469,,0.5
  R,0,65469,,4.99
+ P,0,65469,,A
  V,19,65469,65569,5,0,5,1600
  V,19,65669,66469,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",194,145
- P,0,65558,,A
+Sprite,Background,Centre,"sb\p.png",194,145
  F,0,65558,,0.5
  R,0,65558,,5.51
+ P,0,65558,,A
  V,19,65558,65658,5,0,5,1600
  V,19,65758,66558,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",573,283
- P,0,66969,,A
+Sprite,Background,Centre,"sb\p.png",573,283
  F,0,66969,,0.5
  R,0,66969,,4.16
+ P,0,66969,,A
  V,19,66969,67069,5,0,5,1600
  V,19,67169,67969,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",313,229
- P,0,67587,,A
+Sprite,Background,Centre,"sb\p.png",313,229
  F,0,67587,,0.5
  R,0,67587,,2.29
+ P,0,67587,,A
  V,19,67587,67687,5,0,5,1600
  V,19,67787,68587,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",155,164
- P,0,68116,,A
+Sprite,Background,Centre,"sb\p.png",155,164
  F,0,68116,,0.5
  R,0,68116,,3.52
+ P,0,68116,,A
  V,19,68116,68216,5,0,5,1600
  V,19,68316,69116,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",127,157
- P,0,68205,,A
+Sprite,Background,Centre,"sb\p.png",127,157
  F,0,68205,,0.5
  R,0,68205,,4.04
+ P,0,68205,,A
  V,19,68205,68305,5,0,5,1600
  V,19,68405,69205,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",107,141
- P,0,68293,,A
+Sprite,Background,Centre,"sb\p.png",107,141
  F,0,68293,,0.5
  R,0,68293,,4.56
+ P,0,68293,,A
  V,19,68293,68393,5,0,5,1600
  V,19,68493,69293,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",244,291
- P,0,68822,,A
+Sprite,Background,Centre,"sb\p.png",244,291
  F,0,68822,,0.5
  R,0,68822,,2.4
+ P,0,68822,,A
  V,19,68822,68922,5,0,5,1600
  V,19,69022,69822,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",273,308
- P,0,68910,,A
+Sprite,Background,Centre,"sb\p.png",273,308
  F,0,68910,,0.5
  R,0,68910,,2.92
+ P,0,68910,,A
  V,19,68910,69010,5,0,5,1600
  V,19,69110,69910,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",303,305
- P,0,68999,,A
+Sprite,Background,Centre,"sb\p.png",303,305
  F,0,68999,,0.5
  R,0,68999,,3.44
+ P,0,68999,,A
  V,19,68999,69099,5,0,5,1600
  V,19,69199,69999,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",331,276
- P,0,69087,,A
+Sprite,Background,Centre,"sb\p.png",331,276
  F,0,69087,,0.5
  R,0,69087,,3.96
+ P,0,69087,,A
  V,19,69087,69187,5,0,5,1600
  V,19,69287,70087,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",346,75
- P,0,70146,,A
+Sprite,Background,Centre,"sb\p.png",346,75
  F,0,70146,,0.5
  R,0,70146,,5.01
+ P,0,70146,,A
  V,19,70146,70246,5,0,5,1600
  V,19,70346,71146,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",370,156
- P,0,70410,,A
+Sprite,Background,Centre,"sb\p.png",370,156
  F,0,70410,,0.5
  R,0,70410,,5.56
+ P,0,70410,,A
  V,19,70410,70510,5,0,5,1600
  V,19,70610,71410,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",321,273
- P,0,70940,,A
+Sprite,Background,Centre,"sb\p.png",321,273
  F,0,70940,,0.5
  R,0,70940,,3.79
+ P,0,70940,,A
  V,19,70940,71040,5,0,5,1600
  V,19,71140,71940,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/glow.png",130,213
+Sprite,Background,Centre,"sb\glow.png",130,213
  P,0,77999,,A
  F,0,77999,78799,0.5
  S,19,77999,78799,0.1,0.7
  F,2,78799,78999,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",143,194
+Sprite,Background,Centre,"sb\glow.png",143,194
  P,0,78087,,A
  F,0,78087,78887,0.5
  S,19,78087,78887,0.1,0.7
  F,2,78887,79087,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",152,202
+Sprite,Background,Centre,"sb\glow.png",152,202
  P,0,78175,,A
  F,0,78175,78975,0.5
  S,19,78175,78975,0.1,0.7
  F,2,78975,79175,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",175,190
+Sprite,Background,Centre,"sb\glow.png",175,190
  P,0,78263,,A
  F,0,78263,79063,0.5
  S,19,78263,79063,0.1,0.7
  F,2,79063,79263,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",194,157
+Sprite,Background,Centre,"sb\glow.png",194,157
  P,0,78352,,A
  F,0,78352,79152,0.5
  S,19,78352,79152,0.1,0.7
  F,2,79152,79352,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",187,115
+Sprite,Background,Centre,"sb\glow.png",187,115
  P,0,78440,,A
  F,0,78440,79240,0.5
  S,19,78440,79240,0.1,0.7
  F,2,79240,79440,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",143,86
+Sprite,Background,Centre,"sb\glow.png",143,86
  P,0,78528,,A
  F,0,78528,79328,0.5
  S,19,78528,79328,0.1,0.7
  F,2,79328,79528,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",82,107
+Sprite,Background,Centre,"sb\glow.png",82,107
  P,0,78616,,A
  F,0,78616,79416,0.5
  S,19,78616,79416,0.1,0.7
  F,2,79416,79616,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",66,177
+Sprite,Background,Centre,"sb\glow.png",66,177
  P,0,78705,,A
  F,0,78705,79505,0.5
  S,19,78705,79505,0.1,0.7
  F,2,79505,79705,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",127,288
+Sprite,Background,Centre,"sb\glow.png",127,288
  P,0,79058,,A
  F,0,79058,79858,0.5
  S,19,79058,79858,0.1,0.7
  F,2,79858,80058,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",240,104
+Sprite,Background,Centre,"sb\glow.png",240,104
  P,0,79410,,A
  F,0,79410,80210,0.5
  S,19,79410,80210,0.1,0.7
  F,2,80210,80410,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",249,98
+Sprite,Background,Centre,"sb\glow.png",249,98
  P,0,79499,,A
  F,0,79499,80299,0.5
  S,19,79499,80299,0.1,0.7
  F,2,80299,80499,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",277,108
+Sprite,Background,Centre,"sb\glow.png",277,108
  P,0,79587,,A
  F,0,79587,80387,0.5
  S,19,79587,80387,0.1,0.7
  F,2,80387,80587,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",299,154
+Sprite,Background,Centre,"sb\glow.png",299,154
  P,0,79675,,A
  F,0,79675,80475,0.5
  S,19,79675,80475,0.1,0.7
  F,2,80475,80675,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",285,161
+Sprite,Background,Centre,"sb\glow.png",285,161
  P,0,79763,,A
  F,0,79763,80563,0.5
  S,19,79763,80563,0.1,0.7
  F,2,80563,80763,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",295,177
+Sprite,Background,Centre,"sb\glow.png",295,177
  P,0,79852,,A
  F,0,79852,80652,0.5
  S,19,79852,80652,0.1,0.7
  F,2,80652,80852,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",342,142
+Sprite,Background,Centre,"sb\glow.png",342,142
  P,0,79940,,A
  F,0,79940,80740,0.5
  S,19,79940,80740,0.1,0.7
  F,2,80740,80940,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",389,163
+Sprite,Background,Centre,"sb\glow.png",389,163
  P,0,80028,,A
  F,0,80028,80828,0.5
  S,19,80028,80828,0.1,0.7
  F,2,80828,81028,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",377,234
+Sprite,Background,Centre,"sb\glow.png",377,234
  P,0,80116,,A
  F,0,80116,80916,0.5
  S,19,80116,80916,0.1,0.7
  F,2,80916,81116,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",275,230
+Sprite,Background,Centre,"sb\glow.png",275,230
  P,0,88940,,A
  F,0,88940,89740,0.5
  S,19,88940,89740,0.1,0.7
  F,2,89740,89940,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",399,112
+Sprite,Background,Centre,"sb\glow.png",399,112
  P,0,89116,,A
  F,0,89116,89916,0.5
  S,19,89116,89916,0.1,0.7
  F,2,89916,90116,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",419,122
+Sprite,Background,Centre,"sb\glow.png",419,122
  P,0,89205,,A
  F,0,89205,90005,0.5
  S,19,89205,90005,0.1,0.7
  F,2,90005,90205,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",424,129
+Sprite,Background,Centre,"sb\glow.png",424,129
  P,0,89293,,A
  F,0,89293,90093,0.5
  S,19,89293,90093,0.1,0.7
  F,2,90093,90293,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",435,183
+Sprite,Background,Centre,"sb\glow.png",435,183
  P,0,89558,,A
  F,0,89558,90358,0.5
  S,19,89558,90358,0.1,0.7
  F,2,90358,90558,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",445,189
+Sprite,Background,Centre,"sb\glow.png",445,189
  P,0,89646,,A
  F,0,89646,90446,0.5
  S,19,89646,90446,0.1,0.7
  F,2,90446,90646,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",487,171
+Sprite,Background,Centre,"sb\glow.png",487,171
  P,0,89734,,A
  F,0,89734,90534,0.5
  S,19,89734,90534,0.1,0.7
  F,2,90534,90734,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",504,103
+Sprite,Background,Centre,"sb\glow.png",504,103
  P,0,89822,,A
  F,0,89822,90622,0.5
  S,19,89822,90622,0.1,0.7
  F,2,90622,90822,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",566,83
+Sprite,Background,Centre,"sb\glow.png",566,83
  P,0,89999,,A
  F,0,89999,90799,0.5
  S,19,89999,90799,0.1,0.7
  F,2,90799,90999,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",566,90
+Sprite,Background,Centre,"sb\glow.png",566,90
  P,0,90087,,A
  F,0,90087,90887,0.5
  S,19,90087,90887,0.1,0.7
  F,2,90887,91087,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",563,91
+Sprite,Background,Centre,"sb\glow.png",563,91
  P,0,90175,,A
  F,0,90175,90975,0.5
  S,19,90175,90975,0.1,0.7
  F,2,90975,91175,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",275,230
+Sprite,Background,Centre,"sb\glow.png",275,230
  P,0,90352,,A
  F,0,90352,91152,0.5
  S,19,90352,91152,0.1,0.7
  F,2,91152,91352,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",455,281
+Sprite,Background,Centre,"sb\glow.png",455,281
  P,0,90528,,A
  F,0,90528,91328,0.5
  S,19,90528,91328,0.1,0.7
  F,2,91328,91528,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",460,290
+Sprite,Background,Centre,"sb\glow.png",460,290
  P,0,90616,,A
  F,0,90616,91416,0.5
  S,19,90616,91416,0.1,0.7
  F,2,91416,91616,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",454,305
+Sprite,Background,Centre,"sb\glow.png",454,305
  P,0,90705,,A
  F,0,90705,91505,0.5
  S,19,90705,91505,0.1,0.7
  F,2,91505,91705,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",389,320
+Sprite,Background,Centre,"sb\glow.png",389,320
  P,0,90969,,A
  F,0,90969,91769,0.5
  S,19,90969,91769,0.1,0.7
  F,2,91769,91969,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",392,331
+Sprite,Background,Centre,"sb\glow.png",392,331
  P,0,91058,,A
  F,0,91058,91858,0.5
  S,19,91058,91858,0.1,0.7
  F,2,91858,92058,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",411,357
+Sprite,Background,Centre,"sb\glow.png",411,357
  P,0,91146,,A
  F,0,91146,91946,0.5
  S,19,91146,91946,0.1,0.7
  F,2,91946,92146,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",468,380
+Sprite,Background,Centre,"sb\glow.png",468,380
  P,0,91234,,A
  F,0,91234,92034,0.5
  S,19,91234,92034,0.1,0.7
  F,2,92034,92234,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",576,432
+Sprite,Background,Centre,"sb\glow.png",576,432
  P,0,91410,,A
  F,0,91410,92210,0.5
  S,19,91410,92210,0.1,0.7
  F,2,92210,92410,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",559,440
+Sprite,Background,Centre,"sb\glow.png",559,440
  P,0,91499,,A
  F,0,91499,92299,0.5
  S,19,91499,92299,0.1,0.7
  F,2,92299,92499,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",545,402
+Sprite,Background,Centre,"sb\glow.png",545,402
  P,0,91587,,A
  F,0,91587,92387,0.5
  S,19,91587,92387,0.1,0.7
  F,2,92387,92587,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",310,427
+Sprite,Background,Centre,"sb\glow.png",310,427
  P,0,91763,,A
  F,0,91763,92563,0.5
  S,19,91763,92563,0.1,0.7
  F,2,92563,92763,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",189,278
+Sprite,Background,Centre,"sb\glow.png",189,278
  P,0,91940,,A
  F,0,91940,92740,0.5
  S,19,91940,92740,0.1,0.7
  F,2,92740,92940,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",276,304
+Sprite,Background,Centre,"sb\glow.png",276,304
  P,0,92116,,A
  F,0,92116,92916,0.5
  S,19,92116,92916,0.1,0.7
  F,2,92916,93116,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",350,143
+Sprite,Background,Centre,"sb\glow.png",350,143
  P,0,92293,,A
  F,0,92293,93093,0.5
  S,19,92293,93093,0.1,0.7
  F,2,93093,93293,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",242,108
+Sprite,Background,Centre,"sb\glow.png",242,108
  P,0,92469,,A
  F,0,92469,93269,0.5
  S,19,92469,93269,0.1,0.7
  F,2,93269,93469,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",235,104
+Sprite,Background,Centre,"sb\glow.png",235,104
  P,0,92558,,A
  F,0,92558,93358,0.5
  S,19,92558,93358,0.1,0.7
  F,2,93358,93558,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",229,97
+Sprite,Background,Centre,"sb\glow.png",229,97
  P,0,92646,,A
  F,0,92646,93446,0.5
  S,19,92646,93446,0.1,0.7
  F,2,93446,93646,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",226,88
+Sprite,Background,Centre,"sb\glow.png",226,88
  P,0,92734,,A
  F,0,92734,93534,0.5
  S,19,92734,93534,0.1,0.7
  F,2,93534,93734,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",187,64
+Sprite,Background,Centre,"sb\glow.png",187,64
  P,0,92822,,A
  F,0,92822,93622,0.5
  S,19,92822,93622,0.1,0.7
  F,2,93622,93822,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",166,84
+Sprite,Background,Centre,"sb\glow.png",166,84
  P,0,92910,,A
  F,0,92910,93710,0.5
  S,19,92910,93710,0.1,0.7
  F,2,93710,93910,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",143,113
+Sprite,Background,Centre,"sb\glow.png",143,113
  P,0,92999,,A
  F,0,92999,93799,0.5
  S,19,92999,93799,0.1,0.7
  F,2,93799,93999,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",124,158
+Sprite,Background,Centre,"sb\glow.png",124,158
  P,0,93087,,A
  F,0,93087,93887,0.5
  S,19,93087,93887,0.1,0.7
  F,2,93887,94087,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",527,201
+Sprite,Background,Centre,"sb\circle.png",527,201
  P,0,127763,,A
  F,0,127763,128563,0.5
  S,19,127763,128563,0.1,0.3
  F,18,128563,128763,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",485,265
+Sprite,Background,Centre,"sb\circle.png",485,265
  P,0,127881,,A
  F,0,127881,128681,0.5
  S,19,127881,128681,0.1,0.3
  F,18,128681,128881,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",521,318
+Sprite,Background,Centre,"sb\circle.png",521,318
  P,0,127999,,A
  F,0,127999,128799,0.5
  S,19,127999,128799,0.1,0.3
  F,18,128799,128999,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",498,344
+Sprite,Background,Centre,"sb\circle.png",498,344
  P,0,128116,,A
  F,0,128116,128916,0.5
  S,19,128116,128916,0.1,0.3
  F,18,128916,129116,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",500,354
+Sprite,Background,Centre,"sb\circle.png",500,354
  P,0,128234,,A
  F,0,128234,129034,0.5
  S,19,128234,129034,0.1,0.3
  F,18,129034,129234,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",500,354
+Sprite,Background,Centre,"sb\circle.png",500,354
  P,0,128352,,A
  F,0,128352,129152,0.5
  S,19,128352,129152,0.1,0.3
  F,18,129152,129352,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",474,400
+Sprite,Background,Centre,"sb\circle.png",474,400
  P,0,128469,,A
  F,0,128469,129269,0.5
  S,19,128469,129269,0.1,0.3
  F,18,129269,129469,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",369,245
+Sprite,Background,Centre,"sb\circle.png",369,245
  P,0,138352,,A
  F,0,138352,139152,0.5
  S,19,138352,139152,0.1,0.3
  F,18,139152,139352,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",303,288
+Sprite,Background,Centre,"sb\circle.png",303,288
  P,0,138440,,A
  F,0,138440,139240,0.5
  S,19,138440,139240,0.1,0.3
  F,18,139240,139440,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",276,340
+Sprite,Background,Centre,"sb\circle.png",276,340
  P,0,138528,,A
  F,0,138528,139328,0.5
  S,19,138528,139328,0.1,0.3
  F,18,139328,139528,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",292,354
+Sprite,Background,Centre,"sb\circle.png",292,354
  P,0,138616,,A
  F,0,138616,139416,0.5
  S,19,138616,139416,0.1,0.3
  F,18,139416,139616,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",287,363
+Sprite,Background,Centre,"sb\circle.png",287,363
  P,0,138705,,A
  F,0,138705,139505,0.5
  S,19,138705,139505,0.1,0.3
  F,18,139505,139705,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",365,407
+Sprite,Background,Centre,"sb\circle.png",365,407
  P,0,139058,,A
  F,0,139058,139858,0.5
  S,19,139058,139858,0.1,0.3
  F,18,139858,140058,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",365,407
+Sprite,Background,Centre,"sb\circle.png",365,407
  P,0,139146,,A
  F,0,139146,139946,0.5
  S,19,139146,139946,0.1,0.3
  F,18,139946,140146,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",365,407
+Sprite,Background,Centre,"sb\circle.png",365,407
  P,0,139234,,A
  F,0,139234,140034,0.5
  S,19,139234,140034,0.1,0.3
  F,18,140034,140234,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",337,267
+Sprite,Background,Centre,"sb\circle.png",337,267
  P,0,139410,,A
  F,0,139410,140210,0.5
  S,19,139410,140210,0.1,0.3
  F,18,140210,140410,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",323,237
+Sprite,Background,Centre,"sb\circle.png",323,237
  P,0,139499,,A
  F,0,139499,140299,0.5
  S,19,139499,140299,0.1,0.3
  F,18,140299,140499,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",316,192
+Sprite,Background,Centre,"sb\circle.png",316,192
  P,0,139587,,A
  F,0,139587,140387,0.5
  S,19,139587,140387,0.1,0.3
  F,18,140387,140587,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",310,130
+Sprite,Background,Centre,"sb\circle.png",310,130
  P,0,139675,,A
  F,0,139675,140475,0.5
  S,19,139675,140475,0.1,0.3
  F,18,140475,140675,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",281,56
+Sprite,Background,Centre,"sb\glow.png",281,56
  P,0,190980,,A
  F,0,190980,191780,0.5
  S,19,190980,191780,0.1,0.7
  F,2,191780,191980,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",447,194
+Sprite,Background,Centre,"sb\glow.png",447,194
  P,0,191215,,A
  F,0,191215,192015,0.5
  S,19,191215,192015,0.1,0.7
  F,2,192015,192215,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",371,315
+Sprite,Background,Centre,"sb\glow.png",371,315
  P,0,191449,,A
  F,0,191449,192249,0.5
  S,19,191449,192249,0.1,0.7
  F,2,192249,192449,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",462,252
+Sprite,Background,Centre,"sb\glow.png",462,252
  P,0,191683,,A
  F,0,191683,192483,0.5
  S,19,191683,192483,0.1,0.7
  F,2,192483,192683,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",533,320
+Sprite,Background,Centre,"sb\glow.png",533,320
  P,0,191801,,A
  F,0,191801,192601,0.5
  S,19,191801,192601,0.1,0.7
  F,2,192601,192801,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",437,440
+Sprite,Background,Centre,"sb\glow.png",437,440
  P,0,192035,,A
  F,0,192035,192835,0.5
  S,19,192035,192835,0.1,0.7
  F,2,192835,193035,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",437,440
+Sprite,Background,Centre,"sb\glow.png",437,440
  P,0,192094,,A
  F,0,192094,192894,0.5
  S,19,192094,192894,0.1,0.7
  F,2,192894,193094,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",437,440
+Sprite,Background,Centre,"sb\glow.png",437,440
  P,0,192152,,A
  F,0,192152,192952,0.5
  S,19,192152,192952,0.1,0.7
  F,2,192952,193152,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",347,216
+Sprite,Background,Centre,"sb\glow.png",347,216
  P,0,192504,,A
  F,0,192504,193304,0.5
  S,19,192504,193304,0.1,0.7
  F,2,193304,193504,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",347,216
+Sprite,Background,Centre,"sb\glow.png",347,216
  P,0,192621,,A
  F,0,192621,193421,0.5
  S,19,192621,193421,0.1,0.7
  F,2,193421,193621,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",257,150
+Sprite,Background,Centre,"sb\glow.png",257,150
  P,0,192855,,A
  F,0,192855,193655,0.5
  S,19,192855,193655,0.1,0.7
  F,2,193655,193855,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",71,282
+Sprite,Background,Centre,"sb\glow.png",71,282
  P,0,193090,,A
  F,0,193090,193890,0.5
  S,19,193090,193890,0.1,0.7
  F,2,193890,194090,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",290,56
+Sprite,Background,Centre,"sb\glow.png",290,56
  P,0,193324,,A
  F,0,193324,194124,0.5
  S,19,193324,194124,0.1,0.7
  F,2,194124,194324,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",71,108
+Sprite,Background,Centre,"sb\glow.png",71,108
  P,0,193676,,A
  F,0,193676,194476,0.5
  S,19,193676,194476,0.1,0.7
  F,2,194476,194676,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",262,358
+Sprite,Background,Centre,"sb\glow.png",262,358
  P,0,193910,,A
  F,0,193910,194710,0.5
  S,19,193910,194710,0.1,0.7
  F,2,194710,194910,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",262,358
+Sprite,Background,Centre,"sb\glow.png",262,358
  P,0,194027,,A
  F,0,194027,194827,0.5
  S,19,194027,194827,0.1,0.7
  F,2,194827,195027,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",222,272
+Sprite,Background,Centre,"sb\glow.png",222,272
  P,0,194379,,A
  F,0,194379,195179,0.5
  S,19,194379,195179,0.1,0.7
  F,2,195179,195379,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",247,282
+Sprite,Background,Centre,"sb\glow.png",247,282
  P,0,194496,,A
  F,0,194496,195296,0.5
  S,19,194496,195296,0.1,0.7
  F,2,195296,195496,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",297,249
+Sprite,Background,Centre,"sb\glow.png",297,249
  P,0,194613,,A
  F,0,194613,195413,0.5
  S,19,194613,195413,0.1,0.7
  F,2,195413,195613,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",368,282
+Sprite,Background,Centre,"sb\glow.png",368,282
  P,0,194730,,A
  F,0,194730,195530,0.5
  S,19,194730,195530,0.1,0.7
  F,2,195530,195730,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",338,337
+Sprite,Background,Centre,"sb\glow.png",338,337
  P,0,194847,,A
  F,0,194847,195647,0.5
  S,19,194847,195647,0.1,0.7
  F,2,195647,195847,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",405,386
+Sprite,Background,Centre,"sb\glow.png",405,386
  P,0,194965,,A
  F,0,194965,195765,0.5
  S,19,194965,195765,0.1,0.7
  F,2,195765,195965,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",507,431
+Sprite,Background,Centre,"sb\glow.png",507,431
  P,0,195199,,A
  F,0,195199,195999,0.5
  S,19,195199,195999,0.1,0.7
  F,2,195999,196199,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",390,181
+Sprite,Background,Centre,"sb\glow.png",390,181
  P,0,195551,,A
  F,0,195551,196351,0.5
  S,19,195551,196351,0.1,0.7
  F,2,196351,196551,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",576,56
+Sprite,Background,Centre,"sb\glow.png",576,56
  P,0,195785,,A
  F,0,195785,196585,0.5
  S,19,195785,196585,0.1,0.7
  F,2,196585,196785,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",576,56
+Sprite,Background,Centre,"sb\glow.png",576,56
  P,0,195902,,A
  F,0,195902,196702,0.5
  S,19,195902,196702,0.1,0.7
  F,2,196702,196902,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",289,132
+Sprite,Background,Centre,"sb\glow.png",289,132
  P,0,196254,,A
  F,0,196254,197054,0.5
  S,19,196254,197054,0.1,0.7
  F,2,197054,197254,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",289,132
+Sprite,Background,Centre,"sb\glow.png",289,132
  P,0,196371,,A
  F,0,196371,197171,0.5
  S,19,196371,197171,0.1,0.7
  F,2,197171,197371,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",389,180
+Sprite,Background,Centre,"sb\glow.png",389,180
  P,0,196605,,A
  F,0,196605,197405,0.5
  S,19,196605,197405,0.1,0.7
  F,2,197405,197605,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",173,275
+Sprite,Background,Centre,"sb\glow.png",173,275
  P,0,196840,,A
  F,0,196840,197640,0.5
  S,19,196840,197640,0.1,0.7
  F,2,197640,197840,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",267,253
+Sprite,Background,Centre,"sb\glow.png",267,253
  P,0,197074,,A
  F,0,197074,197874,0.5
  S,19,197074,197874,0.1,0.7
  F,2,197874,198074,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",291,316
+Sprite,Background,Centre,"sb\glow.png",291,316
  P,0,197191,,A
  F,0,197191,197991,0.5
  S,19,197191,197991,0.1,0.7
  F,2,197991,198191,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",265,331
+Sprite,Background,Centre,"sb\glow.png",265,331
  P,0,197308,,A
  F,0,197308,198108,0.5
  S,19,197308,198108,0.1,0.7
  F,2,198108,198308,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",257,326
+Sprite,Background,Centre,"sb\glow.png",257,326
  P,0,197426,,A
  F,0,197426,198226,0.5
  S,19,197426,198226,0.1,0.7
  F,2,198226,198426,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",223,415
+Sprite,Background,Centre,"sb\glow.png",223,415
  P,0,197777,,A
  F,0,197777,198577,0.5
  S,19,197777,198577,0.1,0.7
  F,2,198577,198777,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",226,409
+Sprite,Background,Centre,"sb\glow.png",226,409
  P,0,197894,,A
  F,0,197894,198694,0.5
  S,19,197894,198694,0.1,0.7
  F,2,198694,198894,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",202,321
+Sprite,Background,Centre,"sb\glow.png",202,321
  P,0,198012,,A
  F,0,198012,198812,0.5
  S,19,198012,198812,0.1,0.7
  F,2,198812,199012,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",173,275
+Sprite,Background,Centre,"sb\glow.png",173,275
  P,0,198129,,A
  F,0,198129,198929,0.5
  S,19,198129,198929,0.1,0.7
  F,2,198929,199129,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",108,232
+Sprite,Background,Centre,"sb\glow.png",108,232
  P,0,198246,,A
  F,0,198246,199046,0.5
  S,19,198246,199046,0.1,0.7
  F,2,199046,199246,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",66,131
+Sprite,Background,Centre,"sb\glow.png",66,131
  P,0,198480,,A
  F,0,198480,199280,0.5
  S,19,198480,199280,0.1,0.7
  F,2,199280,199480,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",224,56
+Sprite,Background,Centre,"sb\glow.png",224,56
  P,0,198715,,A
  F,0,198715,199515,0.5
  S,19,198715,199515,0.1,0.7
  F,2,199515,199715,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",333,83
+Sprite,Background,Centre,"sb\glow.png",333,83
  P,0,198949,,A
  F,0,198949,199749,0.5
  S,19,198949,199749,0.1,0.7
  F,2,199749,199949,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",478,109
+Sprite,Background,Centre,"sb\glow.png",478,109
  P,0,199301,,A
  F,0,199301,200101,0.5
  S,19,199301,200101,0.1,0.7
  F,2,200101,200301,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",316,223
+Sprite,Background,Centre,"sb\glow.png",316,223
  P,0,199535,,A
  F,0,199535,200335,0.5
  S,19,199535,200335,0.1,0.7
  F,2,200335,200535,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",316,223
+Sprite,Background,Centre,"sb\glow.png",316,223
  P,0,199594,,A
  F,0,199594,200394,0.5
  S,19,199594,200394,0.1,0.7
  F,2,200394,200594,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",316,223
+Sprite,Background,Centre,"sb\glow.png",316,223
  P,0,199652,,A
  F,0,199652,200452,0.5
  S,19,199652,200452,0.1,0.7
  F,2,200452,200652,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",558,411
+Sprite,Background,Centre,"sb\glow.png",558,411
  P,0,200004,,A
  F,0,200004,200804,0.5
  S,19,200004,200804,0.1,0.7
  F,2,200804,201004,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",558,411
+Sprite,Background,Centre,"sb\glow.png",558,411
  P,0,200121,,A
  F,0,200121,200921,0.5
  S,19,200121,200921,0.1,0.7
  F,2,200921,201121,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",537,306
+Sprite,Background,Centre,"sb\glow.png",537,306
  P,0,200355,,A
  F,0,200355,201155,0.5
  S,19,200355,201155,0.1,0.7
  F,2,201155,201355,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",445,158
+Sprite,Background,Centre,"sb\glow.png",445,158
  P,0,200590,,A
  F,0,200590,201390,0.5
  S,19,200590,201390,0.1,0.7
  F,2,201390,201590,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",345,190
+Sprite,Background,Centre,"sb\glow.png",345,190
  P,0,200824,,A
  F,0,200824,201624,0.5
  S,19,200824,201624,0.1,0.7
  F,2,201624,201824,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",211,292
+Sprite,Background,Centre,"sb\glow.png",211,292
  P,0,201176,,A
  F,0,201176,201976,0.5
  S,19,201176,201976,0.1,0.7
  F,2,201976,202176,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",64,440
+Sprite,Background,Centre,"sb\glow.png",64,440
  P,0,201410,,A
  F,0,201410,202210,0.5
  S,19,201410,202210,0.1,0.7
  F,2,202210,202410,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",64,440
+Sprite,Background,Centre,"sb\glow.png",64,440
  P,0,201527,,A
  F,0,201527,202327,0.5
  S,19,201527,202327,0.1,0.7
  F,2,202327,202527,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",275,430
+Sprite,Background,Centre,"sb\glow.png",275,430
  P,0,201879,,A
  F,0,201879,202679,0.5
  S,19,201879,202679,0.1,0.7
  F,2,202679,202879,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",297,424
+Sprite,Background,Centre,"sb\glow.png",297,424
  P,0,201996,,A
  F,0,201996,202796,0.5
  S,19,201996,202796,0.1,0.7
  F,2,202796,202996,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",330,365
+Sprite,Background,Centre,"sb\glow.png",330,365
  P,0,202113,,A
  F,0,202113,202913,0.5
  S,19,202113,202913,0.1,0.7
  F,2,202913,203113,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",276,321
+Sprite,Background,Centre,"sb\glow.png",276,321
  P,0,202230,,A
  F,0,202230,203030,0.5
  S,19,202230,203030,0.1,0.7
  F,2,203030,203230,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",343,261
+Sprite,Background,Centre,"sb\glow.png",343,261
  P,0,202347,,A
  F,0,202347,203147,0.5
  S,19,202347,203147,0.1,0.7
  F,2,203147,203347,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",302,214
+Sprite,Background,Centre,"sb\glow.png",302,214
  P,0,202465,,A
  F,0,202465,203265,0.5
  S,19,202465,203265,0.1,0.7
  F,2,203265,203465,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",318,198
+Sprite,Background,Centre,"sb\glow.png",318,198
  P,0,202582,,A
  F,0,202582,203382,0.5
  S,19,202582,203382,0.1,0.7
  F,2,203382,203582,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",287,173
+Sprite,Background,Centre,"sb\glow.png",287,173
  P,0,202699,,A
  F,0,202699,203499,0.5
  S,19,202699,203499,0.1,0.7
  F,2,203499,203699,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",356,106
+Sprite,Background,Centre,"sb\glow.png",356,106
  P,0,203168,,A
  F,0,203168,203968,0.5
  S,19,203168,203968,0.1,0.7
  F,2,203968,204168,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",309,69
+Sprite,Background,Centre,"sb\glow.png",309,69
  P,0,203637,,A
  F,0,203637,204437,0.5
  S,19,203637,204437,0.1,0.7
  F,2,204437,204637,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",362,159
+Sprite,Background,Centre,"sb\glow.png",362,159
  P,0,203754,,A
  F,0,203754,204554,0.5
  S,19,203754,204554,0.1,0.7
  F,2,204554,204754,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",342,146
+Sprite,Background,Centre,"sb\glow.png",342,146
  P,0,203988,,A
  F,0,203988,204788,0.5
  S,19,203988,204788,0.1,0.7
  F,2,204788,204988,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",257,237
+Sprite,Background,Centre,"sb\glow.png",257,237
  P,0,204105,,A
  F,0,204105,204905,0.5
  S,19,204105,204905,0.1,0.7
  F,2,204905,205105,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",311,289
+Sprite,Background,Centre,"sb\glow.png",311,289
  P,0,204222,,A
  F,0,204222,205022,0.5
  S,19,204222,205022,0.1,0.7
  F,2,205022,205222,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",327,274
+Sprite,Background,Centre,"sb\glow.png",327,274
  P,0,204340,,A
  F,0,204340,205140,0.5
  S,19,204340,205140,0.1,0.7
  F,2,205140,205340,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",354,284
+Sprite,Background,Centre,"sb\glow.png",354,284
  P,0,204574,,A
  F,0,204574,205374,0.5
  S,19,204574,205374,0.1,0.7
  F,2,205374,205574,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",320,387
+Sprite,Background,Centre,"sb\glow.png",320,387
  P,0,204691,,A
  F,0,204691,205491,0.5
  S,19,204691,205491,0.1,0.7
  F,2,205491,205691,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",257,237
+Sprite,Background,Centre,"sb\glow.png",257,237
  P,0,205043,,A
  F,0,205043,205843,0.5
  S,19,205043,205843,0.1,0.7
  F,2,205843,206043,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",252,169
- P,0,262210,,A
- F,0,262210,263010,0.5
- S,19,262210,263010,0.1,0.3
- F,18,263010,263210,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",337,173
- P,0,262525,,A
- F,0,262525,263325,0.5
- S,19,262525,263325,0.1,0.3
- F,18,263325,263525,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",406,220
- P,0,262841,,A
- F,0,262841,263641,0.5
- S,19,262841,263641,0.1,0.3
- F,18,263641,263841,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",330,266
- P,0,263157,,A
- F,0,263157,263957,0.5
- S,19,263157,263957,0.1,0.3
- F,18,263957,264157,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",311,305
- P,0,263236,,A
- F,0,263236,264036,0.5
- S,19,263236,264036,0.1,0.3
- F,18,264036,264236,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",334,343
- P,0,263315,,A
- F,0,263315,264115,0.5
- S,19,263315,264115,0.1,0.3
- F,18,264115,264315,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",378,344
- P,0,263394,,A
- F,0,263394,264194,0.5
- S,19,263394,264194,0.1,0.3
- F,18,264194,264394,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",403,307
- P,0,263473,,A
- F,0,263473,264273,0.5
- S,19,263473,264273,0.1,0.3
- F,18,264273,264473,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",431,223
+Sprite,Background,Centre,"sb\glow.png",431,223
  P,0,268525,,A
  F,0,268525,269325,0.5
  S,19,268525,269325,0.1,0.7
  F,2,269325,269525,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",429,261
+Sprite,Background,Centre,"sb\glow.png",429,261
  P,0,268604,,A
  F,0,268604,269404,0.5
  S,19,268604,269404,0.1,0.7
  F,2,269404,269604,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",453,231
+Sprite,Background,Centre,"sb\glow.png",453,231
  P,0,268683,,A
  F,0,268683,269483,0.5
  S,19,268683,269483,0.1,0.7
  F,2,269483,269683,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",417,241
+Sprite,Background,Centre,"sb\glow.png",417,241
  P,0,268762,,A
  F,0,268762,269562,0.5
  S,19,268762,269562,0.1,0.7
  F,2,269562,269762,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",452,255
+Sprite,Background,Centre,"sb\glow.png",452,255
  P,0,268841,,A
  F,0,268841,269641,0.5
  S,19,268841,269641,0.1,0.7
  F,2,269641,269841,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",523,150
+Sprite,Background,Centre,"sb\glow.png",523,150
  P,0,268999,,A
  F,0,268999,269799,0.5
  S,19,268999,269799,0.1,0.7
  F,2,269799,269999,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",502,162
+Sprite,Background,Centre,"sb\glow.png",502,162
  P,0,269078,,A
  F,0,269078,269878,0.5
  S,19,269078,269878,0.1,0.7
  F,2,269878,270078,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",526,164
+Sprite,Background,Centre,"sb\glow.png",526,164
  P,0,269157,,A
  F,0,269157,269957,0.5
  S,19,269157,269957,0.1,0.7
  F,2,269957,270157,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",508,148
+Sprite,Background,Centre,"sb\glow.png",508,148
  P,0,269236,,A
  F,0,269236,270036,0.5
  S,19,269236,270036,0.1,0.7
  F,2,270036,270236,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",513,172
+Sprite,Background,Centre,"sb\glow.png",513,172
  P,0,269315,,A
  F,0,269315,270115,0.5
  S,19,269315,270115,0.1,0.7
  F,2,270115,270315,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",412,88
+Sprite,Background,Centre,"sb\glow.png",412,88
  P,0,269473,,A
  F,0,269473,270273,0.5
  S,19,269473,270273,0.1,0.7
  F,2,270273,270473,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",407,105
+Sprite,Background,Centre,"sb\glow.png",407,105
  P,0,269552,,A
  F,0,269552,270352,0.5
  S,19,269552,270352,0.1,0.7
  F,2,270352,270552,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",424,101
+Sprite,Background,Centre,"sb\glow.png",424,101
  P,0,269631,,A
  F,0,269631,270431,0.5
  S,19,269631,270431,0.1,0.7
  F,2,270431,270631,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",286,152
+Sprite,Background,Centre,"sb\glow.png",286,152
  P,0,269946,,A
  F,0,269946,270746,0.5
  S,19,269946,270746,0.1,0.7
  F,2,270746,270946,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",289,164
+Sprite,Background,Centre,"sb\glow.png",289,164
  P,0,270025,,A
  F,0,270025,270825,0.5
  S,19,270025,270825,0.1,0.7
  F,2,270825,271025,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",277,161
+Sprite,Background,Centre,"sb\glow.png",277,161
  P,0,270104,,A
  F,0,270104,270904,0.5
  S,19,270104,270904,0.1,0.7
  F,2,270904,271104,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",197,248
+Sprite,Background,Centre,"sb\glow.png",197,248
  P,0,270420,,A
  F,0,270420,271220,0.5
  S,19,270420,271220,0.1,0.7
  F,2,271220,271420,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",193,238
+Sprite,Background,Centre,"sb\glow.png",193,238
  P,0,270499,,A
  F,0,270499,271299,0.5
  S,19,270499,271299,0.1,0.7
  F,2,271299,271499,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",188,229
+Sprite,Background,Centre,"sb\glow.png",188,229
  P,0,270578,,A
  F,0,270578,271378,0.5
  S,19,270578,271378,0.1,0.7
  F,2,271378,271578,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",184,219
+Sprite,Background,Centre,"sb\glow.png",184,219
  P,0,270657,,A
  F,0,270657,271457,0.5
  S,19,270657,271457,0.1,0.7
  F,2,271457,271657,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",179,210
+Sprite,Background,Centre,"sb\glow.png",179,210
  P,0,270736,,A
  F,0,270736,271536,0.5
  S,19,270736,271536,0.1,0.7
  F,2,271536,271736,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",223,225
+Sprite,Background,Centre,"sb\glow.png",223,225
  P,0,270815,,A
  F,0,270815,271615,0.5
  S,19,270815,271615,0.1,0.7
  F,2,271615,271815,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",233,271
+Sprite,Background,Centre,"sb\glow.png",233,271
  P,0,270894,,A
  F,0,270894,271694,0.5
  S,19,270894,271694,0.1,0.7
  F,2,271694,271894,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",200,303
+Sprite,Background,Centre,"sb\glow.png",200,303
  P,0,270973,,A
  F,0,270973,271773,0.5
  S,19,270973,271773,0.1,0.7
  F,2,271773,271973,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",155,292
+Sprite,Background,Centre,"sb\glow.png",155,292
  P,0,271052,,A
  F,0,271052,271852,0.5
  S,19,271052,271852,0.1,0.7
  F,2,271852,272052,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",415,434
+Sprite,Background,Centre,"sb\glow.png",415,434
  P,0,281157,,A
  F,0,281157,281957,0.5
  S,19,281157,281957,0.1,0.7
  F,2,281957,282157,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",403,394
+Sprite,Background,Centre,"sb\glow.png",403,394
  P,0,281236,,A
  F,0,281236,282036,0.5
  S,19,281236,282036,0.1,0.7
  F,2,282036,282236,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",372,366
+Sprite,Background,Centre,"sb\glow.png",372,366
  P,0,281315,,A
  F,0,281315,282115,0.5
  S,19,281315,282115,0.1,0.7
  F,2,282115,282315,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",330,359
+Sprite,Background,Centre,"sb\glow.png",330,359
  P,0,281394,,A
  F,0,281394,282194,0.5
  S,19,281394,282194,0.1,0.7
  F,2,282194,282394,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",292,375
+Sprite,Background,Centre,"sb\glow.png",292,375
  P,0,281473,,A
  F,0,281473,282273,0.5
  S,19,281473,282273,0.1,0.7
  F,2,282273,282473,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",271,379
+Sprite,Background,Centre,"sb\glow.png",271,379
  P,0,281552,,A
  F,0,281552,282352,0.5
  S,19,281552,282352,0.1,0.7
  F,2,282352,282552,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",251,372
+Sprite,Background,Centre,"sb\glow.png",251,372
  P,0,281631,,A
  F,0,281631,282431,0.5
  S,19,281631,282431,0.1,0.7
  F,2,282431,282631,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",238,355
+Sprite,Background,Centre,"sb\glow.png",238,355
  P,0,281710,,A
  F,0,281710,282510,0.5
  S,19,281710,282510,0.1,0.7
  F,2,282510,282710,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",234,335
+Sprite,Background,Centre,"sb\glow.png",234,335
  P,0,281788,,A
  F,0,281788,282588,0.5
  S,19,281788,282588,0.1,0.7
  F,2,282588,282788,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",240,286
+Sprite,Background,Centre,"sb\glow.png",240,286
  P,0,281867,,A
  F,0,281867,282667,0.5
  S,19,281867,282667,0.1,0.7
  F,2,282667,282867,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",273,250
+Sprite,Background,Centre,"sb\glow.png",273,250
  P,0,281946,,A
  F,0,281946,282746,0.5
  S,19,281946,282746,0.1,0.7
  F,2,282746,282946,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",322,241
+Sprite,Background,Centre,"sb\glow.png",322,241
  P,0,282025,,A
  F,0,282025,282825,0.5
  S,19,282025,282825,0.1,0.7
  F,2,282825,283025,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",366,262
+Sprite,Background,Centre,"sb\glow.png",366,262
  P,0,282104,,A
  F,0,282104,282904,0.5
  S,19,282104,282904,0.1,0.7
  F,2,282904,283104,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",426,270
+Sprite,Background,Centre,"sb\glow.png",426,270
  P,0,282183,,A
  F,0,282183,282983,0.5
  S,19,282183,282983,0.1,0.7
  F,2,282983,283183,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",463,221
+Sprite,Background,Centre,"sb\glow.png",463,221
  P,0,282262,,A
  F,0,282262,283062,0.5
  S,19,282262,283062,0.1,0.7
  F,2,283062,283262,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",440,165
+Sprite,Background,Centre,"sb\glow.png",440,165
  P,0,282341,,A
  F,0,282341,283141,0.5
  S,19,282341,283141,0.1,0.7
  F,2,283141,283341,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",379,156
+Sprite,Background,Centre,"sb\glow.png",379,156
  P,0,282420,,A
  F,0,282420,283220,0.5
  S,19,282420,283220,0.1,0.7
  F,2,283220,283420,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",198,212
+Sprite,Background,Centre,"sb\glow.png",198,212
  P,0,316210,,A
  F,0,316210,317010,0.5
  S,19,316210,317010,0.1,0.7
  F,2,317010,317210,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",219,227
+Sprite,Background,Centre,"sb\glow.png",219,227
  P,0,316288,,A
  F,0,316288,317088,0.5
  S,19,316288,317088,0.1,0.7
  F,2,317088,317288,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",233,249
+Sprite,Background,Centre,"sb\glow.png",233,249
  P,0,316367,,A
  F,0,316367,317167,0.5
  S,19,316367,317167,0.1,0.7
  F,2,317167,317367,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",237,275
+Sprite,Background,Centre,"sb\glow.png",237,275
  P,0,316446,,A
  F,0,316446,317246,0.5
  S,19,316446,317246,0.1,0.7
  F,2,317246,317446,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",230,303
+Sprite,Background,Centre,"sb\glow.png",230,303
  P,0,316525,,A
  F,0,316525,317325,0.5
  S,19,316525,317325,0.1,0.7
  F,2,317325,317525,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",280,422
+Sprite,Background,Centre,"sb\glow.png",280,422
  P,0,316683,,A
  F,0,316683,317483,0.5
  S,19,316683,317483,0.1,0.7
  F,2,317483,317683,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",463,343
+Sprite,Background,Centre,"sb\glow.png",463,343
  P,0,316841,,A
  F,0,316841,317641,0.5
  S,19,316841,317641,0.1,0.7
  F,2,317641,317841,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",413,440
+Sprite,Background,Centre,"sb\glow.png",413,440
  P,0,316999,,A
  F,0,316999,317799,0.5
  S,19,316999,317799,0.1,0.7
  F,2,317799,317999,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",499,265
+Sprite,Background,Centre,"sb\glow.png",499,265
  P,0,317157,,A
  F,0,317157,317957,0.5
  S,19,317157,317957,0.1,0.7
  F,2,317957,318157,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",513,267
+Sprite,Background,Centre,"sb\glow.png",513,267
  P,0,317235,,A
  F,0,317235,318035,0.5
  S,19,317235,318035,0.1,0.7
  F,2,318035,318235,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",527,264
+Sprite,Background,Centre,"sb\glow.png",527,264
  P,0,317314,,A
  F,0,317314,318114,0.5
  S,19,317314,318114,0.1,0.7
  F,2,318114,318314,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",539,258
+Sprite,Background,Centre,"sb\glow.png",539,258
  P,0,317393,,A
  F,0,317393,318193,0.5
  S,19,317393,318193,0.1,0.7
  F,2,318193,318393,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",558,229
+Sprite,Background,Centre,"sb\glow.png",558,229
  P,0,317473,,A
  F,0,317473,318273,0.5
  S,19,317473,318273,0.1,0.7
  F,2,318273,318473,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",549,195
+Sprite,Background,Centre,"sb\glow.png",549,195
  P,0,317551,,A
  F,0,317551,318351,0.5
  S,19,317551,318351,0.1,0.7
  F,2,318351,318551,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",541,162
+Sprite,Background,Centre,"sb\glow.png",541,162
  P,0,317630,,A
  F,0,317630,318430,0.5
  S,19,317630,318430,0.1,0.7
  F,2,318430,318630,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",533,129
+Sprite,Background,Centre,"sb\glow.png",533,129
  P,0,317709,,A
  F,0,317709,318509,0.5
  S,19,317709,318509,0.1,0.7
  F,2,318509,318709,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",521,88
+Sprite,Background,Centre,"sb\glow.png",521,88
  P,0,317788,,A
  F,0,317788,318588,0.5
  S,19,317788,318588,0.1,0.7
  F,2,318588,318788,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",303,56
+Sprite,Background,Centre,"sb\glow.png",303,56
  P,0,321578,,A
  F,0,321578,322378,0.5
  S,19,321578,322378,0.1,0.7
  F,2,322378,322578,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",294,76
+Sprite,Background,Centre,"sb\glow.png",294,76
  P,0,321656,,A
  F,0,321656,322456,0.5
  S,19,321656,322456,0.1,0.7
  F,2,322456,322656,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",293,99
+Sprite,Background,Centre,"sb\glow.png",293,99
  P,0,321735,,A
  F,0,321735,322535,0.5
  S,19,321735,322535,0.1,0.7
  F,2,322535,322735,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",298,120
+Sprite,Background,Centre,"sb\glow.png",298,120
  P,0,321814,,A
  F,0,321814,322614,0.5
  S,19,321814,322614,0.1,0.7
  F,2,322614,322814,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",313,135
+Sprite,Background,Centre,"sb\glow.png",313,135
  P,0,321894,,A
  F,0,321894,322694,0.5
  S,19,321894,322694,0.1,0.7
  F,2,322694,322894,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",353,128
+Sprite,Background,Centre,"sb\glow.png",353,128
  P,0,321972,,A
  F,0,321972,322772,0.5
  S,19,321972,322772,0.1,0.7
  F,2,322772,322972,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",394,121
+Sprite,Background,Centre,"sb\glow.png",394,121
  P,0,322051,,A
  F,0,322051,322851,0.5
  S,19,322051,322851,0.1,0.7
  F,2,322851,323051,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",434,114
+Sprite,Background,Centre,"sb\glow.png",434,114
  P,0,322130,,A
  F,0,322130,322930,0.5
  S,19,322130,322930,0.1,0.7
  F,2,322930,323130,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",475,107
+Sprite,Background,Centre,"sb\glow.png",475,107
  P,0,322210,,A
  F,0,322210,323010,0.5
  S,19,322210,323010,0.1,0.7
  F,2,323010,323210,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",176,185
+Sprite,Background,Centre,"sb\glow.png",176,185
  P,0,322367,,A
  F,0,322367,323167,0.5
  S,19,322367,323167,0.1,0.7
  F,2,323167,323367,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",299,394
+Sprite,Background,Centre,"sb\glow.png",299,394
  P,0,322525,,A
  F,0,322525,323325,0.5
  S,19,322525,323325,0.1,0.7
  F,2,323325,323525,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",320,358
+Sprite,Background,Centre,"sb\glow.png",320,358
  P,0,322603,,A
  F,0,322603,323403,0.5
  S,19,322603,323403,0.1,0.7
  F,2,323403,323603,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",328,316
+Sprite,Background,Centre,"sb\glow.png",328,316
  P,0,322682,,A
  F,0,322682,323482,0.5
  S,19,322682,323482,0.1,0.7
  F,2,323482,323682,0.5,0
-
-Sprite,Background,Centre,"sb/glow.png",326,276
+Sprite,Background,Centre,"sb\glow.png",326,276
  P,0,322761,,A
  F,0,322761,323561,0.5
  S,19,322761,323561,0.1,0.7
  F,2,323561,323761,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",306,240
- P,0,322841,,A
- F,0,322841,323641,0.5
- S,19,322841,323641,0.1,0.3
- F,18,323641,323841,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",289,233
- P,0,322946,,A
- F,0,322946,323746,0.5
- S,19,322946,323746,0.1,0.3
- F,18,323746,323946,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",305,219
- P,0,323052,,A
- F,0,323052,323852,0.5
- S,19,323052,323852,0.1,0.3
- F,18,323852,324052,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",383,145
- P,0,323157,,A
- F,0,323157,323957,0.5
- S,19,323157,323957,0.1,0.3
- F,18,323957,324157,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",395,175
- P,0,323262,,A
- F,0,323262,324062,0.5
- S,19,323262,324062,0.1,0.3
- F,18,324062,324262,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",361,168
- P,0,323368,,A
- F,0,323368,324168,0.5
- S,19,323368,324168,0.1,0.3
- F,18,324168,324368,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",269,83
- P,0,323473,,A
- F,0,323473,324273,0.5
- S,19,323473,324273,0.1,0.3
- F,18,324273,324473,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",253,121
- P,0,323578,,A
- F,0,323578,324378,0.5
- S,19,323578,324378,0.1,0.3
- F,18,324378,324578,0.5,0
-
-Sprite,Background,Centre,"sb/circle.png",297,112
- P,0,323684,,A
- F,0,323684,324484,0.5
- S,19,323684,324484,0.1,0.3
- F,18,324484,324684,0.5,0
-
-Sprite,Background,Centre,"sb/p.png",191,220
- P,0,298841,,A
+Sprite,Background,Centre,"sb\p.png",191,220
  F,0,298841,,0.5
  R,0,298841,,5.82
+ P,0,298841,,A
  V,19,298841,298941,5,0,5,1600
  V,19,299041,299841,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",240,328
- P,0,299078,,A
+Sprite,Background,Centre,"sb\p.png",240,328
  F,0,299078,,0.5
  R,0,299078,,3.91
+ P,0,299078,,A
  V,19,299078,299178,5,0,5,1600
  V,19,299278,300078,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",576,254
- P,0,299788,,A
+Sprite,Background,Centre,"sb\p.png",576,254
  F,0,299788,,0.5
  R,0,299788,,2.9
+ P,0,299788,,A
  V,19,299788,299888,5,0,5,1600
  V,19,299988,300788,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",550,265
- P,0,299866,,A
+Sprite,Background,Centre,"sb\p.png",550,265
  F,0,299866,,0.5
  R,0,299866,,3.42
+ P,0,299866,,A
  V,19,299866,299966,5,0,5,1600
  V,19,300066,300866,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",522,268
- P,0,299945,,A
+Sprite,Background,Centre,"sb\p.png",522,268
  F,0,299945,,0.5
  R,0,299945,,3.94
+ P,0,299945,,A
  V,19,299945,300045,5,0,5,1600
  V,19,300145,300945,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",495,262
- P,0,300025,,A
+Sprite,Background,Centre,"sb\p.png",495,262
  F,0,300025,,0.5
  R,0,300025,,4.46
+ P,0,300025,,A
  V,19,300025,300125,5,0,5,1600
  V,19,300225,301025,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",308,434
- P,0,300262,,A
+Sprite,Background,Centre,"sb\p.png",308,434
  F,0,300262,,0.5
  R,0,300262,,5.19
+ P,0,300262,,A
  V,19,300262,300362,5,0,5,1600
  V,19,300462,301262,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",379,286
- P,0,300499,,A
+Sprite,Background,Centre,"sb\p.png",379,286
  F,0,300499,,0.5
  R,0,300499,,1.05
+ P,0,300499,,A
  V,19,300499,300599,5,0,5,1600
  V,19,300699,301499,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",299,276
- P,0,300973,,A
+Sprite,Background,Centre,"sb\p.png",299,276
  F,0,300973,,0.5
  R,0,300973,,0.6
+ P,0,300973,,A
  V,19,300973,301073,5,0,5,1600
  V,19,301173,301973,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",292,296
- P,0,301052,,A
+Sprite,Background,Centre,"sb\p.png",292,296
  F,0,301052,,0.5
  R,0,301052,,1.12
+ P,0,301052,,A
  V,19,301052,301152,5,0,5,1600
  V,19,301252,302052,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",277,311
- P,0,301131,,A
+Sprite,Background,Centre,"sb\p.png",277,311
  F,0,301131,,0.5
  R,0,301131,,1.64
+ P,0,301131,,A
  V,19,301131,301231,5,0,5,1600
  V,19,301331,302131,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",254,313
- P,0,301210,,A
+Sprite,Background,Centre,"sb\p.png",254,313
  F,0,301210,,0.5
  R,0,301210,,2.16
+ P,0,301210,,A
  V,19,301210,301310,5,0,5,1600
  V,19,301410,302210,5,1600,0,1600
-
-Sprite,Background,Centre,"sb/p.png",236,306
- P,0,301288,,A
+Sprite,Background,Centre,"sb\p.png",236,306
  F,0,301288,,0.5
  R,0,301288,,2.68
+ P,0,301288,,A
  V,19,301288,301388,5,0,5,1600
  V,19,301488,302288,5,1600,0,1600
-
- V,19,139675,139775,5,0,5,1600
- V,19,139875,140675,5,1600,0,1600
 Sprite,Background,Centre,"sb\p.png",317,56
  F,0,139763,,0.5
  R,0,139763,,4.79
  P,0,139763,,A
  V,19,139763,139863,5,0,5,1600
  V,19,139963,140763,5,1600,0,1600
-
 Animation,Background,Centre,"sb\girl\g.png",290,375,60,33,LoopForever
- F,0,49410,334841,1
  L,49410,16
   S,17,0,10000,0.26,0.255
   S,17,10000,20000,0.255,0.26
+ F,0,49410,334841,1
  F,0,334841,,0
- 
 Sprite,Background,Centre,"sb\fog.jpg",320,400
  S,0,283999,,0.3856001
  P,0,283999,,A
@@ -2198,11 +1826,190 @@ Sprite,Foreground,Centre,"sb\particle.png",668,0
  S,0,0,,0.08
  P,0,0,,A
  F,0,334841,,0
-
 Sprite,Foreground,Centre,"sb\p.png",320,240
  C,0,233587,,0,0,0
- F,0,233587,234015,0,1
+ F,0,233587,234444,0,1
  V,0,233587,263473,854,480
+Sprite,Foreground,Centre,"sb\circle.png",306,240
+ P,0,322841,,A
+ F,0,322841,323641,0.5
+ S,19,322841,323641,0.1,0.15
+ F,18,323641,323841,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",289,233
+ P,0,322946,,A
+ F,0,322946,323746,0.5
+ S,19,322946,323746,0.1,0.15
+ F,18,323746,323946,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",305,219
+ P,0,323052,,A
+ F,0,323052,323852,0.5
+ S,19,323052,323852,0.1,0.15
+ F,18,323852,324052,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",383,145
+ P,0,323157,,A
+ F,0,323157,323957,0.5
+ S,19,323157,323957,0.1,0.15
+ F,18,323957,324157,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",395,175
+ P,0,323262,,A
+ F,0,323262,324062,0.5
+ S,19,323262,324062,0.1,0.15
+ F,18,324062,324262,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",361,168
+ P,0,323368,,A
+ F,0,323368,324168,0.5
+ S,19,323368,324168,0.1,0.15
+ F,18,324168,324368,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",269,83
+ P,0,323473,,A
+ F,0,323473,324273,0.5
+ S,19,323473,324273,0.1,0.15
+ F,18,324273,324473,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",253,121
+ P,0,323578,,A
+ F,0,323578,324378,0.5
+ S,19,323578,324378,0.1,0.15
+ F,18,324378,324578,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",297,112
+ P,0,323684,,A
+ F,0,323684,324484,0.5
+ S,19,323684,324484,0.1,0.15
+ F,18,324484,324684,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",527,201
+ P,0,127763,,A
+ F,0,127763,128563,0.5
+ S,19,127763,128563,0.1,0.15
+ F,18,128563,128763,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",485,265
+ P,0,127881,,A
+ F,0,127881,128681,0.5
+ S,19,127881,128681,0.1,0.15
+ F,18,128681,128881,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",521,318
+ P,0,127999,,A
+ F,0,127999,128799,0.5
+ S,19,127999,128799,0.1,0.15
+ F,18,128799,128999,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",498,344
+ P,0,128116,,A
+ F,0,128116,128916,0.5
+ S,19,128116,128916,0.1,0.15
+ F,18,128916,129116,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",500,354
+ P,0,128234,,A
+ F,0,128234,129034,0.5
+ S,19,128234,129034,0.1,0.15
+ F,18,129034,129234,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",500,354
+ P,0,128352,,A
+ F,0,128352,129152,0.5
+ S,19,128352,129152,0.1,0.15
+ F,18,129152,129352,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",474,400
+ P,0,128469,,A
+ F,0,128469,129269,0.5
+ S,19,128469,129269,0.1,0.15
+ F,18,129269,129469,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",369,245
+ P,0,138352,,A
+ F,0,138352,139152,0.5
+ S,19,138352,139152,0.1,0.15
+ F,18,139152,139352,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",303,288
+ P,0,138440,,A
+ F,0,138440,139240,0.5
+ S,19,138440,139240,0.1,0.15
+ F,18,139240,139440,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",276,340
+ P,0,138528,,A
+ F,0,138528,139328,0.5
+ S,19,138528,139328,0.1,0.15
+ F,18,139328,139528,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",292,354
+ P,0,138616,,A
+ F,0,138616,139416,0.5
+ S,19,138616,139416,0.1,0.15
+ F,18,139416,139616,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",287,363
+ P,0,138705,,A
+ F,0,138705,139505,0.5
+ S,19,138705,139505,0.1,0.15
+ F,18,139505,139705,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",365,407
+ P,0,139058,,A
+ F,0,139058,139858,0.5
+ S,19,139058,139858,0.1,0.15
+ F,18,139858,140058,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",365,407
+ P,0,139146,,A
+ F,0,139146,139946,0.5
+ S,19,139146,139946,0.1,0.15
+ F,18,139946,140146,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",365,407
+ P,0,139234,,A
+ F,0,139234,140034,0.5
+ S,19,139234,140034,0.1,0.15
+ F,18,140034,140234,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",337,267
+ P,0,139410,,A
+ F,0,139410,140210,0.5
+ S,19,139410,140210,0.1,0.15
+ F,18,140210,140410,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",323,237
+ P,0,139499,,A
+ F,0,139499,140299,0.5
+ S,19,139499,140299,0.1,0.15
+ F,18,140299,140499,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",316,192
+ P,0,139587,,A
+ F,0,139587,140387,0.5
+ S,19,139587,140387,0.1,0.15
+ F,18,140387,140587,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",310,130
+ P,0,139675,,A
+ F,0,139675,140475,0.5
+ S,19,139675,140475,0.1,0.15
+ F,18,140475,140675,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",252,169
+ P,0,262210,,A
+ F,0,262210,263010,0.5
+ S,19,262210,263010,0.1,0.15
+ F,18,263010,263210,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",337,173
+ P,0,262525,,A
+ F,0,262525,263325,0.5
+ S,19,262525,263325,0.1,0.15
+ F,18,263325,263525,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",406,220
+ P,0,262841,,A
+ F,0,262841,263641,0.5
+ S,19,262841,263641,0.1,0.15
+ F,18,263641,263841,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",330,266
+ P,0,263157,,A
+ F,0,263157,263957,0.5
+ S,19,263157,263957,0.1,0.15
+ F,18,263957,264157,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",311,305
+ P,0,263236,,A
+ F,0,263236,264036,0.5
+ S,19,263236,264036,0.1,0.15
+ F,18,264036,264236,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",334,343
+ P,0,263315,,A
+ F,0,263315,264115,0.5
+ S,19,263315,264115,0.1,0.15
+ F,18,264115,264315,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",378,344
+ P,0,263394,,A
+ F,0,263394,264194,0.5
+ S,19,263394,264194,0.1,0.15
+ F,18,264194,264394,0.5,0
+Sprite,Foreground,Centre,"sb\circle.png",403,307
+ P,0,263473,,A
+ F,0,263473,264273,0.5
+ S,19,263473,264273,0.1,0.15
+ F,18,264273,264473,0.5,0
 Animation,Foreground,Centre,"sb\noise\.jpg",320,240,4,936,LoopForever
  F,0,57528,57881,0,0.5
  S,0,57528,57881,0.444
@@ -2257,7 +2064,7 @@ Sprite,Foreground,Centre,"sb\p.png",320,240
  V,0,159937,,854,480
  F,2,159937,160900,1,0
 Animation,Foreground,Centre,"sb\noise\.jpg",320,240,4,936,LoopForever
- F,0,234015,255353,0.2
+ F,0,234015,234444,0.2
  S,0,234015,258095,0.444
 Animation,Foreground,Centre,"sb\noise\.jpg",320,240,4,316,LoopForever
  S,0,334210,,0.444
@@ -2308,6 +2115,9 @@ Animation,Foreground,Centre,"sb\noise\.jpg",320,240,4,936,LoopForever
 Animation,Foreground,Centre,"sb\glitch\g.jpg",320,240,4,75,LoopForever
  P,0,246621,,A
  S,0,246621,246996,1.77824
+Animation,Foreground,Centre,"sb\glitch\g.jpg",320,240,4,75,LoopForever
+ P,0,258095,,A
+ S,0,258095,258470,1.77824
 Sprite,Foreground,Centre,"sb\text\songname.png",320,240
  F,0,334525,334841,0,1
  V,27,334525,334925,0.2,0,0.2,0.2
@@ -2319,6 +2129,12 @@ Sprite,Foreground,Centre,"sb\text\credits.jpg",320,240
  S,0,339262,344315,0.375
 Sprite,Foreground,Centre,"sb\text\6wc.png",320,240
  S,0,344315,350688,0.11
+ F,0,346210,350688,1,0
+Sprite,Foreground,Centre,"sb\text\cdc.png",320,430
+ S,0,344315,350688,0.13
+ F,0,346210,350688,1,0
+Sprite,Foreground,Centre,"sb\text\yobimo.png",320,410
+ S,0,344315,350688,0.13
  F,0,346210,350688,1,0
 Sprite,Foreground,Centre,"sb\p.png",320,240
  V,0,49410,,854,480
@@ -2354,6 +2170,29 @@ Sprite,Foreground,Centre,"sb\bg lighting.png",320,240
  F,0,283683,284683,0,0.75
  S,0,283683,303894,0.222
  F,0,303894,304894,0.75,0
+Animation,Foreground,Centre,"sb\interlude2\f.png",320,255,2,429,LoopForever
+ F,0,234015,234444,0,1
+ S,0,234015,237015,0.63
+ MX,0,234015,237015,300,290
+ F,0,237015,237215,1,0
+Sprite,Foreground,Centre,"sb\text\1.png",500,250
+ F,0,234015,234444,0,1
+ S,0,234015,237015,0.2
+ MX,0,234015,237015,500,505
+ F,0,237015,237215,1,0
+Sprite,Foreground,Centre,"sb\text\2.png",320,300
+ F,0,243525,243954,0,1
+ S,0,243525,246725,0.2
+ MY,0,243525,246725,350,345
+ F,0,246525,246725,1,0
+Sprite,Foreground,Centre,"sb\text\3.png",100,150
+ F,0,249621,250050,0,1
+ S,0,249621,252530,0.2
+ MX,0,249621,252530,100,105
+ F,0,252330,252530,1,0
+Sprite,Foreground,Centre,"sb\text\4.png",320,240
+ F,0,257410,257839,0,1
+ S,0,257410,258095,0.15
 Sprite,Foreground,BottomCentre,"sb\p.png",320,480
  V,19,233158,234015,854,0,854,110
  C,0,234015,,0,0,0
