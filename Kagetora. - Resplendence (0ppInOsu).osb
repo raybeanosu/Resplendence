@@ -2238,23 +2238,29 @@ Sprite,Foreground,Centre,"sb\bg lighting.png",320,240
  S,0,283683,303894,0.222
  F,0,303894,304894,0.75,0
 Animation,Foreground,Centre,"sb\interlude2\f.png",320,255,2,429,LoopForever
+ P,0,234015,,A
  F,0,234015,234444,0,1
  S,0,234015,237015,0.63
  MX,0,234015,237015,300,290
  F,0,237015,237215,1,0
 Animation,Foreground,Centre,"sb\interlude2\s.png",360,240,2,414,LoopForever
+ P,0,237015,,A
  S,0,237015,,0.45
  MX,0,237015,240325,360,365
 Animation,Foreground,Centre,"sb\interlude2\g.png",320,240,2,400,LoopForever
+ P,0,240325,,A
  S,0,240325,,0.7191316
  M,0,240325,243525,490,290,480,290
 Animation,Foreground,Centre,"sb\interlude2\gu.png",320,240,2,375,LoopForever
+ P,0,246996,,A
  S,0,246996,249621,0.2,0.21
  R,0,246996,249621,0,0.1
 Animation,Foreground,Centre,"sb\interlude2\gu.png",320,240,2,353,LoopForever
+ P,0,249621,,A
  S,0,249621,252530,0.4,0.42
  R,0,249621,252530,0.95,1
 Animation,Foreground,Centre,"sb\interlude2\gu.png",320,240,2,364,LoopForever
+ P,0,252530,,A
  MY,0,252530,,350
  S,0,252530,255353,0.6,0.61
  R,0,252530,255353,2.8,2.9
