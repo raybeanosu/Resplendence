@@ -2,7 +2,7 @@
 //Background and Video events
 //Storyboard Layer 0 (Background)
 Sprite,Background,Centre,"103696715_p0.jpg",320,240
-Sprite,Background,Centre,"sb\full bg no nothing.png",320,240
+Sprite,Background,Centre,"sb\full bg.jpg",320,240
  L,49410,29
   M,17,0,5000,320,240,320,242
   S,17,0,5000,0.2222,0.223
