@@ -50,8 +50,8 @@ Sprite,Background,Centre,"sb\fog.jpg",320,400
  F,0,94234,94587,0.7,0
 Sprite,Background,Centre,"sb\pillars.png",320,240
  L,49410,29
-  S,17,0,5000,0.2787,0.2775
-  S,17,5000,10000,0.2775,0.2787
+  S,17,0,5000,0.2955,0.296
+  S,17,5000,10000,0.296,0.2955
  M,0,49410,,340.48,226
  F,0,49410,334841,1
  F,0,233373,233587,1,0
@@ -2748,5 +2748,8 @@ Sprite,Foreground,Centre,"sb\p.png",320,240
  V,0,283683,,854,480
  P,0,283683,,A
  F,2,283683,284646,0.25,0
+Sprite,Foreground,Centre,"sb\enablevideo.png",320,240
+ S,0,15,1586,0.333
+ F,0,1234,1586,1,0
 //Storyboard Layer 4 (Overlay)
 //Storyboard Sound Samples
